@@ -270,3 +270,9 @@ BlockRun enables AI agents to make autonomous payments using x402 protocol. No A
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [BlockRun](https://blockrun.ai) has waived all copyright and related rights to this work.
+
+## More from zovo
+
+- [All free zovo VS Code extensions](https://marketplace.visualstudio.com/publishers/zovo) - file viewers, database clients, formatters. Offline, no telemetry, no sign-up.
+- [Full MCP server catalogue](https://theluckystrike.github.io/mcp/) - local-first MCP servers for back-office work: invoices, VAT, PDFs, spreadsheets, payroll.
+- [Hosted no-install MCP endpoints](https://mcp.zovo.one) - paste a URL in Claude / Cursor, nothing to install.
